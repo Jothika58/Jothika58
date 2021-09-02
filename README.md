@@ -1,4 +1,3 @@
-<img src="https://img.icons8.com/ios/58/000000/external-programmer-female-profession-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jothika S</h1>
 <h3 align="center">I'm a young passionate self-taught student developer from India.</h3>
 
