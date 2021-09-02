@@ -23,6 +23,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png"/>
+    </br>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
